@@ -55,6 +55,8 @@ if(!$_POST){
     <h4>Para poder ver el contenido del Administrador</h4>
         <p><b>User:</b> admin<br>
         <b>pass:</b> 123a</p>
+
+        <p><b>TP archivos en Git: <a href="https://github.com/cambenedetti/tp-users" target="_blank" rel="noopener">repositorio tp-users</a></b></p> 
 <?php
     }else{
         echo "Usted ya está loguedo!!";

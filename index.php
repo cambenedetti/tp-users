@@ -32,6 +32,8 @@ include("session.php");
         <p><b>User:</b> admin<br>
         <b>pass:</b> 123a</p>
 
+    <p><b>TP archivos en Git: <a href="https://github.com/cambenedetti/tp-users" target="_blank" rel="noopener">repositorio tp-users</a></b></p> 
+
 
         <?php if (isset($user_session) && $user_admin == false) { ?>
       <h2>información Usuario logueado</h2>
